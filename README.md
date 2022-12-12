@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @waze96
+- 👀 I’m interested in develop anything interesting!
+- 🌱 I’m currently learning pinescript, cybersecurity, data science
+- 📫 How to reach me !@gmail.com
